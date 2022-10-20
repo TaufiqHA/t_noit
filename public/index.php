@@ -1,3 +1,3 @@
 <?php 
 
-echo " ini adalah teks ";
+require_once __DIR__ . '/../app/init.php';
