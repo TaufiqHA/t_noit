@@ -6,6 +6,6 @@
 	<title> coba </title>
 </head>
 <body>
-	<p> ini adalah teks dalam bentuk php </p>
+	<p> Hello World! </p>
 </body>
 </html>
