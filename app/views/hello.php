@@ -6,6 +6,6 @@
 	<title> coba </title>
 </head>
 <body>
-	<p> Hello World! </p>
+	<p> Hello world! </p>
 </body>
 </html>
